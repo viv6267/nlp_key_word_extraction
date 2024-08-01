@@ -1,0 +1,7 @@
+nltk
+pandas
+numpy
+spacy
+scikit-learn
+flask
+waitress
